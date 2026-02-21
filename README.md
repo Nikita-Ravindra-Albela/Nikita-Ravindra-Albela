@@ -1,5 +1,5 @@
   # Hi, I'm Nikita 👋  
-📊 I measure what matters.
+📊Precision through analytics and Insights over assumptions.
 
 📊 Data Analyst | Business & AI-Powered Analyst  
 🚀 Turning business data into growth decisions  
