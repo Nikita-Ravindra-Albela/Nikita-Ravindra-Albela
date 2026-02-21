@@ -1,5 +1,5 @@
   # Hi, I'm Nikita 👋  
-🧠 Insight over instinct because data doesn't lie.
+📊 Guess less. Analyze more.
 
 📊 Data Analyst | Business & AI-Powered Analyst  
 🚀 Turning business data into growth decisions  
