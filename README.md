@@ -14,8 +14,7 @@ With an MBA in HR & Business Analytics, I combine business understanding with da
 • Sales Performance Analysis  
 • Customer Retention & Segmentation  
 • Market & Growth Insights  
-• AI & Risk Analysis  
-• Financial & Product Analytics  
+• AI & Risk Analysis 
 
 ---
 
