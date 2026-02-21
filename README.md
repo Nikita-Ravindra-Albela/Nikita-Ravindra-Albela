@@ -1,5 +1,5 @@
   # Hi, I'm Nikita 👋  
-📊 Guess less. Analyze more.
+🤖 Data has patterns. I find them.
 
 📊 Data Analyst | Business & AI-Powered Analyst  
 🚀 Turning business data into growth decisions  
