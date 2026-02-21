@@ -1,6 +1,5 @@
-                                                                                                  # Hi, I'm Nikita 👋  
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🧠 Finding patterns so businesses don’t guess
+  # Hi, I'm Nikita 👋  
+🧠 Business + Analytics
 
 📊 Data Analyst | Business & AI-Powered Analyst  
 🚀 Turning business data into growth decisions  
