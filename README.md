@@ -3,7 +3,7 @@
 📊 Data Analyst | Business & AI-Powered Analyst  
 🚀 Turning business data into growth decisions  
 
-I work with real-world sales, marketing, and product datasets to uncover insights that drive revenue, retention, and strategic decisions.
+I work with real-world datasets to uncover insights that drive revenue, retention, and strategic decisions.
 
 With an MBA in HR & Business Analytics, I combine business understanding with data analysis to solve practical, performance-focused problems.
 
