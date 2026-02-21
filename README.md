@@ -1,5 +1,5 @@
   # Hi, I'm Nikita 👋  
-🧠 Business + Analytics
+🧠 Insight over instinct!
 
 📊 Data Analyst | Business & AI-Powered Analyst  
 🚀 Turning business data into growth decisions  
