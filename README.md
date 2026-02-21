@@ -38,3 +38,7 @@ SQL • Python • Power BI • Excel
 ---
 
 📫 Open to Data Analyst / Business Analyst opportunities  
+📫 How to reach me nikitaalbela31@gmail.com
+   Linkedin - https://www.linkedin.com/in/nikita-albela-4194b1164/
+
+⚡ Fun fact Data doesn't Lie.
