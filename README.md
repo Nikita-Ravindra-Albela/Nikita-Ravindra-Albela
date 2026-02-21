@@ -1,5 +1,5 @@
   # Hi, I'm Nikita 👋  
-📊 I turn business questions into measurable answers.
+📊 I measure what matters.
 
 📊 Data Analyst | Business & AI-Powered Analyst  
 🚀 Turning business data into growth decisions  
