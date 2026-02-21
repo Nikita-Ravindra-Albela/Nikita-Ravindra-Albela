@@ -1,5 +1,5 @@
   # Hi, I'm Nikita 👋  
-🤖 Data has patterns. I find them.
+📊 I turn business questions into measurable answers.
 
 📊 Data Analyst | Business & AI-Powered Analyst  
 🚀 Turning business data into growth decisions  
