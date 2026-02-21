@@ -1,6 +1,6 @@
 # Hi, I'm Nikita 👋  
 
-📊 Data Analyst | Business & AI-Powered Analytics  
+📊 Data Analyst | Business & AI-Powered Analyst  
 🚀 Turning business data into growth decisions  
 
 I work with real-world sales, marketing, and product datasets to uncover insights that drive revenue, retention, and strategic decisions.
