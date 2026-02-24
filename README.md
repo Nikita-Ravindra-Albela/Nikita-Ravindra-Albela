@@ -6,7 +6,7 @@
 
 I work with real-world datasets to uncover insights that drive revenue, retention, and strategic decisions.
 
-With an MBA in HR & Business Analytics, I combine business understanding with data analysis to solve practical, performance-focused problems.
+With an MBA in HR & Business Analytics, I combine business understanding with data analysis to solve practical, performance and growth focused problems.
 
 ---
 
