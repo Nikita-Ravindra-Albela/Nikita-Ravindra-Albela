@@ -7,6 +7,7 @@
 I work with real-world datasets to uncover insights that drive revenue, retention, and strategic decisions.
 
 With an MBA in HR & Business Analytics and hands on internship experience, I combine business understanding with data analysis to solve practical, performance and growth focused problems. 
+
 ---
 
 ## 🔍 What I Work On
