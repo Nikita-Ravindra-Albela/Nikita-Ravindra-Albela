@@ -20,8 +20,8 @@ Alongside this, I am preparing for the PL-300 (Power BI Data Analyst) certificat
 • Market & Growth Analytics
 • Dashboarding & KPI Tracking
 
-## 👉 Explore 25+ end-to-end analytics projects here:
-Nikita Ravindra Albela – Data Analysis Portfolio
+## 👉 Explore 25+ end-to-end analytics projects here: [Nikita Ravindra Albela – Data Analysis Portfolio](https://github.com/Nikita-Ravindra-Albela/Portfolio-Data-Analysis)
+
 
 ## 🛠 Tools & Technologies
 
