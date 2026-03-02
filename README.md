@@ -9,6 +9,7 @@ I work with real-world datasets to uncover insights that drive revenue, retentio
 With an MBA in HR & Business Analytics and hands on internship experience, I combine business understanding with data analysis to solve practical, performance-driven problems. 
 
 Currently preparing for the PL-300 (Power BI Data Analyst) certification, I continuously upskill and build projects that leverage AI to automate repetitive tasks and enhance decision-making.
+
 ---
 
 ## 🔍 What I Work On
