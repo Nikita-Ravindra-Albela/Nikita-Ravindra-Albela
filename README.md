@@ -26,8 +26,10 @@ Alongside this, I am preparing for the PL-300 (Power BI Data Analyst) certificat
 ## 🛠 Tools & Technologies
 
 SQL • Python • Power BI • Excel • AI-Assisted Analytics
+## 
 
 📫 Open to Data Analyst / Business Analyst opportunities
+
 📧 nikitaalbela31@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/nikita-albela-4194b1164/
