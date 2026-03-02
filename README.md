@@ -3,7 +3,6 @@
 📊 Precision through analytics. Insights over assumptions.
 
 📊 Data Analyst | Business Analyst | AI-Powered Analytics 
-
 🚀 Turning business data into measurable growth decisions
 
 I work with real-world datasets to uncover insights that drive revenue, retention, and strategic growth.
@@ -21,10 +20,10 @@ Alongside this, I am preparing for the PL-300 (Power BI Data Analyst) certificat
 • Market & Growth Analytics
 • Dashboarding & KPI Tracking
 
-##👉 Explore 25+ end-to-end analytics projects here:
+## 👉 Explore 25+ end-to-end analytics projects here:
 Nikita Ravindra Albela – Data Analysis Portfolio
 
-##🛠 Tools & Technologies
+## 🛠 Tools & Technologies
 
 SQL • Python • Power BI • Excel • AI-Assisted Analytics
 
