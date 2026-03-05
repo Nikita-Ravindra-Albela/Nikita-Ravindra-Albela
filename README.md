@@ -2,7 +2,7 @@
 
 📊 Precision through analytics. Insights over assumptions.
 
-📊 Data Analyst | Business Analyst | AI-Powered Analytics 
+📊 AI-Powered Analytst 
 🚀 Turning business data into measurable growth decisions
 
 I work with real-world datasets to uncover insights that drive revenue, retention, and strategic growth.
