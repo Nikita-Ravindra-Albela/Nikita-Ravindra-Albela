@@ -2,16 +2,15 @@
 
 📊 Precision through analytics. Insights over assumptions.
 
-📊 AI-Powered Analytst 
-🚀 Turning business data into measurable growth decisions
+🚀 AI-Driven Data Analyst | Turning business data into measurable growth decisions
 
-I work with real-world datasets to uncover insights that drive revenue, retention, and strategic growth.
+I work with real-world datasets to uncover insights that drive revenue growth, customer retention, and strategic decision-making.
 
-With an MBA in HR & Business Analytics and hands-on internship experience, I combine strong business understanding with data analysis to solve practical, performance-driven problems.
+With an MBA in HR & Business Analytics and hands-on internship experience, I combine strong business acumen with data analytics to solve practical, performance-driven business problems.
 
-Currently interning at KPAC Marketing, I analyze marketing and product data to optimize campaign performance, track KPIs, and generate actionable insights.
+Currently interning at KPAC Marketing, where I analyze marketing and product data to optimize campaign performance, track key KPIs, and generate actionable insights for business growth.
 
-Alongside this, I am preparing for the PL-300 (Power BI Data Analyst) certification and continuously building projects that leverage AI to automate repetitive workflows and enhance decision-making.
+I am also preparing for the PL-300 (Power BI Data Analyst) certification and continuously expanding my expertise through hands-on projects, upskilling, and staying updated with the latest developments in data analytics and AI. I actively follow industry blogs and learning resources to ensure my analytical approach remains current, practical, and business-focused.
 
 ## 🔍 What I Work On
 
