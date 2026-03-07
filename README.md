@@ -4,7 +4,7 @@
 
 🚀 AI-Driven Data Analyst | Turning business data into measurable growth decisions
 
-I work with real-world datasets to uncover insights that drive revenue growth, customer retention, and strategic decision-making.
+I work with real-world datasets to uncover insights that drive growth, customer retention, and strategic decision-making.
 
 With an MBA in HR & Business Analytics and hands-on internship experience, I combine strong business acumen with data analytics to solve practical, performance-driven business problems.
 
