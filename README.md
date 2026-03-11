@@ -2,7 +2,7 @@
 
 📊 Precision through analytics. Insights over assumptions.
 
-🚀 AI-Driven Data Analyst | Turning business data into measurable growth decisions
+🚀 AI-Driven Data Analyst | Turning business data into measurable growth decisions  | Customer Growth & Insight
 
 I work with real-world datasets to uncover insights that drive growth, customer retention, and strategic decision-making.
 
