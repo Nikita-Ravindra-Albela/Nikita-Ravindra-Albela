@@ -2,7 +2,7 @@
 
 📊 AI-Driven Data Analyst | Turning business data into growth decisions
 
-I build end-to-end analytics projects focused on real-world business impact—covering marketing, revenue, customer growth, and performance analytics.
+I build end-to-end analytics projects focused on real-world business impact-covering marketing, revenue, customer growth, and performance analytics.
 
 ☁️ Project Access Model (Cloud-Based)
 
@@ -48,7 +48,7 @@ You can request access via:
 
 💡 Need Help?
 
-If you're working on similar projects or stuck somewhere, feel free to reach out—I'm happy to guide you.
+If you're working on similar projects or stuck somewhere, feel free to reach out-I'm happy to guide you.
 
 🔍 What My Projects Cover
 
