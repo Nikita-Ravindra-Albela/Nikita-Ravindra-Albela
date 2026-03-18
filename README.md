@@ -1,34 +1,62 @@
-## Hi, I'm Nikita 👋
+👋 Hi, I'm Nikita
 
-📊 Precision through analytics. Insights over assumptions.
+📊 AI-Driven Data Analyst | Turning business data into growth decisions
 
-🚀 AI-Driven Data Analyst | Turning business data into measurable growth decisions  | Customer Growth & Insight
+I build end-to-end analytics projects focused on real-world business impact—covering marketing, revenue, customer growth, and performance analytics.
 
-I work with real-world datasets to uncover insights that drive growth, customer retention, and strategic decision-making.
+☁️ Project Access Model (Cloud-Based)
 
-With an MBA in HR & Business Analytics and hands-on internship experience, I combine strong business acumen with data analytics to solve practical, performance-driven business problems.
+All my projects are now hosted on the cloud for better scalability, security, and structured access.
 
-Currently interning at KPAC Marketing, where I analyze marketing and product data to optimize campaign performance, track key KPIs, and generate actionable insights for business growth.
+To view full projects, you’ll need to request access.
 
-I am also preparing for the PL-300 (Power BI Data Analyst) certification and continuously expanding my expertise through hands-on projects, upskilling, and staying updated with the latest developments in data analytics and AI. I actively follow industry blogs and learning resources to ensure my analytical approach remains current, practical, and business-focused.
+🔐 Who Gets What Access?
+👩‍💼 Recruiters / Hiring Managers
 
-## 🔍 What I Work On
+You will receive:
+✔ Full project access (dashboards, code, reports, insights)
+✔ Business context + decision-making approach
+✔ End-to-end case study walkthrough
 
-• Sales & Revenue Performance Analysis
-• Customer Retention & Segmentation
-• Market & Growth Analytics
-• Dashboarding & KPI Tracking
+👉 How to request access:
+Please share:
 
-## 👉 Explore 25+ end-to-end analytics projects here: [Nikita Ravindra Albela – Data Analysis Portfolio](https://github.com/Nikita-Ravindra-Albela/Portfolio-Data-Analysis)
+Name
 
+Company
 
-## 🛠 Tools & Technologies
+Role
 
-SQL • Python • Power BI • Excel • AI-Assisted Analytics
-## 
+Purpose of access
 
-📫 Open to Data Analyst / Business Analyst opportunities
+🎓 Students / Learners
 
-📧 nikitaalbela31@gmail.com
+You will receive:
+✔ Dataset
+✔ Problem Statement
+
+🚫 Full solutions are not shared to encourage independent learning.
+
+📩 How to Request Access
+
+You can request access via:
+📧 Email: nikitaalbela31@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/nikita-albela-4194b1164/
+
+(Optional upgrade: You can later replace this with a Google Form for automation.)
+
+💡 Need Help?
+
+If you're working on similar projects or stuck somewhere, feel free to reach out—I'm happy to guide you.
+
+🔍 What My Projects Cover
+
+• Marketing Funnel & Campaign Analysis
+• Sales & Revenue Insights
+• Customer Segmentation & Retention
+• KPI Dashboards & Business Reporting
+
+🛠 Tech Stack
+
+SQL • Python • Power BI • Excel • AI Tools
