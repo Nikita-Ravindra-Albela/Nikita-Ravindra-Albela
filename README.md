@@ -6,7 +6,7 @@ I build end-to-end analytics projects focused on real-world business impact-cove
 
 ☁️ Project Access Model (Cloud-Based)
 
-All my projects are now hosted on the cloud for better scalability, security, and structured access.
+All my projects will soon be hosted on the cloud for better scalability, security, and structured access.
 
 To view full projects, you’ll need to request access.
 
@@ -43,8 +43,6 @@ You can request access via:
 📧 Email: nikitaalbela31@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/nikita-albela-4194b1164/
-
-(Optional upgrade: You can later replace this with a Google Form for automation.)
 
 💡 Need Help?
 
