@@ -1,60 +1,28 @@
-👋 Hi, I'm Nikita
+Hi, I'm Nikita 👋
 
-📊 AI-Driven Data Analyst | Turning business data into growth decisions
+📊 Precision through analytics. Insights over assumptions.
 
-I build end-to-end analytics projects focused on real-world business impact-covering marketing, revenue, customer growth, and performance analytics.
+📊 Data Analyst | Business Analyst | AI-Powered Analytics
+🚀 Turning business data into measurable growth decisions
 
-☁️ Project Access Model (Cloud-Based)
+I work with real-world datasets to uncover insights that drive revenue, retention, and strategic growth.
 
-All my projects will soon be hosted on the cloud for better scalability, security, and structured access.
+With an MBA in HR & Business Analytics and hands-on internship experience, I combine strong business understanding with data analysis to solve practical, performance-driven problems.
 
-To view full projects, you’ll need to request access.
+Currently interning at Red Switch Global, I analyze supply chain, product and marketing data to optimize campaign performance, track KPIs, and generate actionable insights.
 
-🔐 Who Gets What Access?
-👩‍💼 Recruiters / Hiring Managers
+Alongside this, I am preparing for the PL-300 (Power BI Data Analyst) certification and continuously building projects that leverage AI to automate repetitive workflows and enhance decision-making.
 
-You will receive:
-✔ Full project access (dashboards, code, reports, insights)
-✔ Business context + decision-making approach
-✔ End-to-end case study walkthrough
+🔍 What I Work On
 
-👉 How to request access:
-Please share:
+• Sales & Revenue Performance Analysis
+• Customer Retention & Segmentation
+• Market & Growth Analytics
+• Dashboarding & KPI Tracking
 
-Name
+👉 Explore 25+ end-to-end analytics projects here:
+Nikita Ravindra Albela – Data Analysis Portfolio
 
-Company
+🛠 Tools & Technologies
 
-Role
-
-Purpose of access
-
-🎓 Students / Learners
-
-You will receive:
-✔ Dataset
-✔ Problem Statement
-
-🚫 Full solutions are not shared to encourage independent learning.
-
-📩 How to Request Access
-
-You can request access via:
-📧 Email: nikitaalbela31@gmail.com
-
-🔗 LinkedIn: https://www.linkedin.com/in/nikita-albela-4194b1164/
-
-💡 Need Help?
-
-If you're working on similar projects or stuck somewhere, feel free to reach out-I'm happy to guide you.
-
-🔍 What My Projects Cover
-
-• Marketing Funnel & Campaign Analysis
-• Sales & Revenue Insights
-• Customer Segmentation & Retention
-• KPI Dashboards & Business Reporting
-
-🛠 Tech Stack
-
-SQL • Python • Power BI • Excel • AI Tools
+SQL • Python • Power BI • Excel • AI-Assisted Analytics
