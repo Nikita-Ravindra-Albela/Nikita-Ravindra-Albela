@@ -9,7 +9,7 @@ I work with real-world datasets to uncover insights that drive revenue, retentio
 
 With an MBA in HR & Business Analytics and hands-on internship experience, I combine strong business understanding with data analysis to solve practical, performance-driven problems.
 
-Currently interning at Red Switch Global, I analyze supply chain, product and marketing data to optimize campaign performance, track KPIs, and generate actionable insights.
+Currently interning at Red Switch Global, I analyze supply chain, user behaviour, product and marketing data to optimize campaign performance, track KPIs, and generate actionable insights.
 
 Alongside this, I am preparing for the PL-300 (Power BI Data Analyst) certification and continuously building projects that leverage AI to automate repetitive workflows and enhance decision-making.
 
