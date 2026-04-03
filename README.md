@@ -23,10 +23,8 @@ Alongside this, I am preparing for the PL-300 (Power BI Data Analyst) certificat
 👉 If you are recruiter exploring my profile, please refer below links to my repository where I actively pracitce on different dataset and a link to my Data Analysis portfolio.
 - Explore 25+ end-to-end analytics projects here: [Repository](https://github.com/Nikita-Ravindra-Albela?tab=repositories)
 - Explore my portfolio here - [Portfolio-Data-Analysis](https://github.com/Nikita-Ravindra-Albela/Portfolio-Data-Analysis)
-- Nikita Ravindra Albela 
 - Linkedin - https://www.linkedin.com/in/nikita-albela-4194b1164/ 
 - Phone - 7798195793
-- Data Analysis Portfolio
 
 🛠 Tools & Technologies
 
