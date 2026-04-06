@@ -20,7 +20,7 @@ Alongside this, I am preparing for the PL-300 (Power BI Data Analyst) certificat
 • Market & Growth Analytics
 • Dashboarding & KPI Tracking
 
-👉 If you are recruiter exploring my profile, please refer below links to my repository where I actively pracitce on different dataset and a link to my Data Analysis portfolio.
+👉 If you are recruiter exploring my profile, please refer below links to my repository where I actively practice on different datasets and a link to my Data Analysis portfolio.
 - Explore 25+ end-to-end analytics projects here: [Repository](https://github.com/Nikita-Ravindra-Albela?tab=repositories)
 - Explore my portfolio here - [Portfolio-Data-Analysis](https://github.com/Nikita-Ravindra-Albela/Portfolio-Data-Analysis)
 - Linkedin - https://www.linkedin.com/in/nikita-albela-4194b1164/ 
