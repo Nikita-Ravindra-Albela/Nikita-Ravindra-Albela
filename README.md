@@ -2,7 +2,7 @@ Hi, I'm Nikita 👋
 
 📊 Precision through analytics. Insights over assumptions.
 
-📊 Data Analyst | Business Analyst | AI-Powered Analytics
+📊 Data Analyst | Business Analyst | AI-Powered Analytics 
 🚀 Turning business data into measurable growth decisions
 
 I work with real-world datasets to uncover insights that drive revenue, retention, and strategic growth.
